@@ -3,7 +3,6 @@
   "rules": [
     {
       "domain": [
-        "samsungconnectivity.com",
         "windows.com",
         "microsofttranslator.com",
         "microsoftonline.com",
@@ -56,7 +55,8 @@
         "openwrt.ai",
         "vsean.net",
         "immortalwrt.org",
-        "kyarucloud.moe"
+        "kyarucloud.moe",
+        "samsungconnectivity.com"
       ],
       "ip_cidr": [
         "129.153.108.78/32",
