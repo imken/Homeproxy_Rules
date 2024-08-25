@@ -3,7 +3,9 @@
   "rules": [
     {
       "domain": [
+        "gist.build",
         "windows.com",
+        "microsoft.com",
         "microsofttranslator.com",
         "microsoftonline.com",
         "live.com",
