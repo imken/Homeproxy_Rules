@@ -74,6 +74,12 @@
         "icloud.com",
         "samsungconnectivity.com"
       ],
+      "domain_suffix":[
+        "zhuan-zhuan.cn",
+        "zhuancorp.com",
+        "zhuanspirit.com",
+        "zhuanzhuan.com"
+      ],
       "ip_cidr": [
         "129.153.108.78/32",
         "132.226.159.181/32",
