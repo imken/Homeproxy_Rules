@@ -3,15 +3,15 @@
   "rules": [
     {
       "domain": [
-        "http-inputs-notion.splunkcloud.com"
+        "lf3-static.bytednsdoc.com"
       ],
-      "domain_suffix": [
-        "notion2-static.com",
-        "notio2n.com",
-        "noti2on.new",
-        "noti2on.site",
-        "not2ion.so",
-        "amaz2onaws.com"
+      "domain_suffix":[
+        "openwrt.ai", "vsean.net", "immortalwrt.org", "kyarucloud.moe"
+      ],
+      "ip_cidr": [
+        "129.153.108.78/32",
+        "132.226.159.181/32",
+        "129.146.222.181/32",
       ]
     }
   ]
