@@ -66,19 +66,10 @@
         "samsungconnectivity.com"
       ],
       "domain_suffix":[
-        "zhihu.com",
-        "zhimg.com",
-        "zhuan-zhuan.cn",
-        "dianping.com",
-        "maoyan.com",
-        "meituan.com",
-        "meituan.net",
-        "mtyun.com",
-        "neixin.cn",
-        "sankuai.com",
-        "zhuancorp.com",
-        "zhuanspirit.com",
-        "zhuanzhuan.com"
+        "56che.com", "cainiao-inc.cn", "cainiao-inc.com", "cainiao-inc.net", "cainiao.com", "cainiao.com.cn", "cainiaoyizhan.com", "guoguo-app.com", "xiaog.xyz",
+        "zhihu.com", "zhimg.com",
+        "zhuan-zhuan.cn", "dianping.com", "maoyan.com", "meituan.com", "meituan.net", "mtyun.com","neixin.cn", "sankuai.com",
+        "zhuancorp.com", "zhuanspirit.com", "zhuanzhuan.com"
       ],
       "ip_cidr": [
         "129.153.108.78/32",
