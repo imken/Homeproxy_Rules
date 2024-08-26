@@ -3,15 +3,6 @@
   "rules": [
     {
       "domain": [
-        "zhihu.com",
-        "zhimg.com",
-        "dianping.com",
-        "maoyan.com",
-        "meituan.com",
-        "meituan.net",
-        "mtyun.com",
-        "neixin.cn",
-        "sankuai.com",
         "gist.build",
         "bing.com",
         "windows.com",
@@ -75,7 +66,16 @@
         "samsungconnectivity.com"
       ],
       "domain_suffix":[
+        "zhihu.com",
+        "zhimg.com",
         "zhuan-zhuan.cn",
+        "dianping.com",
+        "maoyan.com",
+        "meituan.com",
+        "meituan.net",
+        "mtyun.com",
+        "neixin.cn",
+        "sankuai.com",
         "zhuancorp.com",
         "zhuanspirit.com",
         "zhuanzhuan.com"
