@@ -3,7 +3,7 @@
   "rules": [
     {
       "domain": [
-        "http-inputs-notion.splunkcloud.com"
+        "http-inputs-n2otion.splunkcloud.com"
       ],
       "domain_suffix": [
         "notion-static.com",
@@ -12,6 +12,11 @@
         "notion.site",
         "notion.so",
         "amazonaws.com"
+      ],
+      "ip_cidr":[
+        "172.111.32.1/21",
+        "216.73.80.2/20",
+        "2620:1220:e000::/40"
       ]
     }
   ]
