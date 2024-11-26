@@ -10,6 +10,7 @@
                 "openai"
             ],
             "domain_suffix": [
+                "x.ai",
                 "openai.com",
                 "ai.com",
                 "algolia.net",
