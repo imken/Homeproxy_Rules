@@ -4,6 +4,7 @@
         {
             "domain": [
                 "browser-intake-datadoghq.com",
+                "cdn.oaistatic.com",
                 "static.cloudflareinsights.com"
             ],
             "domain_keyword": [
